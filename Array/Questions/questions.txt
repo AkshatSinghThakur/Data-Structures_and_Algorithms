@@ -1,0 +1,11 @@
+Arrays Questions :-
+
+Q.0 Make an array (1D and 2D) by user inputs and print them ? 
+Q.1 Find a given number in the array using Linear and Binary Search ?
+Q.2 Find the Maximum number in the array ?
+Q.3 Find the Minimum number in the array ?
+Q.4 Find the duplicate number in the array ?
+Q.5 Find the smallest number greater than the given number (ceiling number) ?
+Q.6 Find the greatest number smaller than the given number (floor number) ?
+Q.7 Reverse an array ?
+Q.8 Sort an array using different sorting algorithms ?
